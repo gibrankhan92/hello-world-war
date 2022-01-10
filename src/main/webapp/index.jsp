@@ -3,7 +3,7 @@
 <title>Hello Linux World!!</title>
 </head>
 <body>
-	<h1>Hello Linux World!!</h1>
+	<h1>Helloo Linux World!!</h1>
 	<p>
 		The Time is
 		<%= new java.util.Date() %></p>
